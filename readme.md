@@ -4,3 +4,7 @@ This is the branch I'm building the changes to sheetsee.js on. Through a Knight-
 
 Branches `gh-pages` and `master` will remain as-is for now until the new version is ready to roll. 
 
+### node.js
+
+I'm planning on revamping this client-side version and building another version with node.js to cache data so that pages load faster and you can develop locally offline. That repo, for now, is here: [github.com/jllord/sheetsee-cache](http://www.github.com/jllord/sheetsee-cache).
+
